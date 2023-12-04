@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Producto 1",
+    "descripcion": "Manzana verde",
+    "price": 40,
+    "thumbnail": "https://www.eltiempo.com/files/image_640_428/uploads/2022/11/20/637a938f80be6.jpeg",
+    "code": "P001",
+    "stock": 100,
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "descripcion": "Arroz",
+    "price": 70,
+    "thumbnail": "https://media.f2h.shop/media/catalog/product/cache/ab45d104292f1bb63d093e6be8310c97/2/0/2020-08-14_r01_molinos_ala_doble_carolina_frente-xzhh_akzn-transformed.png",
+    "code": "P002",
+    "stock": 200,
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "descripcion": "Pepsi",
+    "price": 200,
+    "thumbnail": "https://dcdn.mitiendanube.com/stores/001/611/627/products/1500-regular-011-17aae1c17219bb3b8316179114560247-640-0.png",
+    "code": "P003",
+    "stock": 100,
+    "id": 3
+  },
+  {
+    "title": "Producto 4",
+    "descripcion": "Fideos",
+    "price": 120,
+    "thumbnail": "https://media.f2h.shop/media/catalog/product/cache/ab45d104292f1bb63d093e6be8310c97/7/7/7790070318282.jpg",
+    "code": "P004",
+    "stock": 150,
+    "id": 4
+  },
+  {
+    "title": "Producto 5",
+    "descripcion": "Tomates",
+    "price": 50,
+    "thumbnail": "https://s1.eestatic.com/2021/07/12/actualidad/595952167_195030066_1706x960.jpg",
+    "code": "P005",
+    "stock": 50,
+    "id": 5
+  },
+  {
+    "title": "Producto 6",
+    "descripcion": "Lechuga",
+    "price": 30,
+    "thumbnail": "URL_IMAGEN_6",
+    "code": "P006",
+    "stock": 80,
+    "id": 6
+  },
+  {
+    "title": "Producto 7",
+    "descripcion": "Yogurt",
+    "price": 90,
+    "thumbnail": "URL_IMAGEN_7",
+    "code": "P007",
+    "stock": 120,
+    "id": 7
+  },
+  {
+    "title": "Producto 8",
+    "descripcion": "Pan integral",
+    "price": 60,
+    "thumbnail": "URL_IMAGEN_8",
+    "code": "P008",
+    "stock": 60,
+    "id": 8
+  },
+  {
+    "title": "Producto 9",
+    "descripcion": "Queso",
+    "price": 80,
+    "thumbnail": "URL_IMAGEN_9",
+    "code": "P009",
+    "stock": 100,
+    "id": 9
+  },
+  {
+    "title": "Producto 10",
+    "descripcion": "Zanahorias",
+    "price": 35,
+    "thumbnail": "URL_IMAGEN_10",
+    "code": "P010",
+    "stock": 70,
+    "id": 10
+  },
+  {
+    "title": "Producto 11",
+    "descripcion": "Descripción del Producto 11",
+    "price": 32,
+    "thumbnail": "thumbnail11.jpg",
+    "code": "P0012",
+    "stock": 100,
+    "id": 11
+  },
+  {
+    "title": "Producto 12",
+    "descripcion": "Descripción del Producto 12",
+    "price": 54,
+    "thumbnail": "thumbnail12.jpg",
+    "code": "P0011",
+    "stock": 80,
+    "id": 12
+  }
+]

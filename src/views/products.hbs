@@ -1,0 +1,18 @@
+<div>
+  <h1>Products</h1>
+  <form>
+    <input type="text" name="title"  placeholder="Titulo del producto">
+    <input type="text" name="descripcion" placeholder="Descripcion del producto">
+    <input type="number" name="price" placeholder="Precio del producto">
+    <input type="text" name="thumbnail" placeholder="Imagen del producto">
+    <input type="text" name="code" placeholder="Codigo del producto (asegurese de no repetirlo)">
+    <input type="number" name="stock" placeholder="Cantidad de stock del producto">
+    <input type="submit" value="Send">
+
+  </form>
+
+  <h2> Post list: </h2>
+  <div id="products"></div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/js/main.js"></script>
+</div> 
